@@ -1,0 +1,30 @@
+id: PDDD01E11
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA23945
+  instance_id: http://purl.bdrc.io/resource/IE23945
+  collection_id: http://purl.bdrc.io/resource/PR0ET006
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - པདྨ་འགྲོ་འདུལ་གསང་སྔགས་གླིང་པའི་རྣམ་ཐར།
+  alt_title:
+    en-x-mixed:
+    - a biography of thugs-sras dri-med, the son of bdud-'joms-glin-pa
+  author: http://purl.bdrc.io/resource/P742
+  publisher: PalriParkhang
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    2e9e90386164435a8d855f6760d55778:
+      title: ༡༽༄༅།་།སྐྱབས་རྗེ་ཐམས་ཅད་མཁྱེན་པ་གྲུབ་པའི་དབང་ཕྱུག་ཟབ་གཏེར་རྒྱ་མཚོའི་མངའ་བདག་རིན་པོ་ཆེ་པདྨ་འགྲོ་འདུལ་གསང་སྔགས་གླིང་པའི་རྣམ་ཐར་སྙ
+      volume_number: 1
+      base_file: UT23945_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VLC74F7EEF90835AC7
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW23945
+  - http://purl.bdrc.io/resource/W23945
+created_at: '2021-12-22T11:09:58.530072'
+last_modified_at: '2021-12-22T11:09:58.530079'
